@@ -11,7 +11,7 @@ The advantage of this solution is that your project can be found more easily.
 
 User usability is made easier and a standard format is “specified”.
 
-** HowTo:
+# HowTo:
 Open the Script with "Windows Powershell ISE".
 Add your text here:
 $Text="Your Text....";
