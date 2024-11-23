@@ -19,3 +19,6 @@ Add your text here:
 $Text="Your Text....";
 
 Press the "Start Button"
+
+# Example
+https://www.printables.com/model/642923-bohrschablone-fur-hettich-rastex-1519-du428-drilli
