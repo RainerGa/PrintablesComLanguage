@@ -13,7 +13,9 @@ User usability is made easier and a standard format is “specified”.
 
 # HowTo:
 Open the Script with "Windows Powershell ISE".
+
 Add your text here:
+
 $Text="Your Text....";
 
 Press the "Start Button"
